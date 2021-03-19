@@ -1,0 +1,15 @@
+.box1 {
+    background-color: skyblue;
+    width: 70px;
+    height: 70px;
+    border: 5px solid black; /*두께 방법 색깔*/
+    padding: 5px;
+    margin: 5px;
+}
+
+.box2 {
+    background-color: violet;
+    width: 90px;
+    height: 90px;
+    border: 5px solid purple;
+}
